@@ -1,0 +1,38 @@
+body{
+    overflow: hidden;
+}
+
+main{
+    padding-top: 150px;
+    height: 98vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.getPhoto{
+    background-color: rgb(85, 173, 250);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    height: 50px;
+    width: 200px;
+}
+.dogBreed{
+height: 45px;
+border-radius: 25px;
+width: 250px;
+}
+.dogBreed{
+    margin-right: 30px;
+    padding-left: 20px;
+}
+.dogPhoto{
+    margin-top: 40px;
+    
+}
